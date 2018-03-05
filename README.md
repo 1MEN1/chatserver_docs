@@ -30,6 +30,6 @@ private string connectId; // PC-Name = Console.WriteLine("MachineName: {0}", Env
 ```
 
 * getUsers
-* getChannel
+* getChannels
 * auth
 * getUserDetails
